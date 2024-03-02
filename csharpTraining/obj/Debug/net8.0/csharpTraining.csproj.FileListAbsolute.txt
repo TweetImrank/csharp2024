@@ -1,0 +1,14 @@
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\bin\Debug\net8.0\csharpTraining.exe
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\bin\Debug\net8.0\csharpTraining.deps.json
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\bin\Debug\net8.0\csharpTraining.runtimeconfig.json
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\bin\Debug\net8.0\csharpTraining.dll
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\bin\Debug\net8.0\csharpTraining.pdb
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\obj\Debug\net8.0\csharpTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\obj\Debug\net8.0\csharpTraining.AssemblyInfoInputs.cache
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\obj\Debug\net8.0\csharpTraining.AssemblyInfo.cs
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\obj\Debug\net8.0\csharpTraining.csproj.CoreCompileInputs.cache
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\obj\Debug\net8.0\csharpTraining.dll
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\obj\Debug\net8.0\refint\csharpTraining.dll
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\obj\Debug\net8.0\csharpTraining.pdb
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\obj\Debug\net8.0\csharpTraining.genruntimeconfig.cache
+C:\Users\garethfox\Documents\csharp\csharp2024\csharpTraining\obj\Debug\net8.0\ref\csharpTraining.dll
